@@ -16,13 +16,13 @@
 title: Vince Johnson Home 
 email: vinjohnsonATicloudDOTcom 
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is my site to describe myself, provide links to contact information and 
+  provide access to my resume.
+  At some point I will add content links to various projects that I am working on.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "git.vincej.net" # the base hostname & protocol for your site
-twitter_username: Mistrblank
-github_username:  Mistrblank
+twitter_username: MistrBlank
+github_username:  MistrBlank
 
 # Build settings
 markdown: kramdown
